@@ -81,10 +81,18 @@
 
 ## 📥 التثبيت والاستخدام
 
-git clone https://github.com/par-6/Ethical-Hacking-Tools.git
-cd Ethical-Hacking-Tools
+### 📌 التثبيت خطوة بخطوة
+
+#### 1) استنساخ المستودع
+git clone https://github.com/username/project
+#### 2) دخول المجلد
+cd project
+#### 3) إعطاء الصلاحيات
 chmod +x *
-python3 0.py
+#### 4) تشغيل الأداة
+./start
+
+
 ---
 
 ## 🎬 صور من الواجهة

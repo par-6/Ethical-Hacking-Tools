@@ -81,15 +81,16 @@
 
 ## 📥 التثبيت والاستخدام
 
-git clone 
-cd <folder>
+git clone https://github.com/par-6/Ethical-Hacking-Tools.git
+cd Ethical-Hacking-Tools
 chmod +x *
-./start
+python3 0.py
 ---
 
 ## 🎬 صور من الواجهة
+<img width="784" height="977" alt="Screenshot From 2025-11-29 14-06-54" src="https://github.com/user-attachments/assets/8047f63a-19ca-402d-b18b-0a63ac61065e" />
 
-(تُضاف لاحقًا)
+
 
 ---
 
